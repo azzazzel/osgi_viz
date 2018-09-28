@@ -34,7 +34,13 @@
                 <button onclick='render("services.json")'>services</button>
                 <button onclick='render("all.json")'>blow my mind</button>
             </h3>
-           	<small><sup>*</sup> OSGi is dynamic system and this graph represents one particular state that can completely change if bundle is added or removed</small>
+           	<small>
+           		<sup>*</sup> OSGi is dynamic system and this graph represents one particular 
+           		state that can completely change if bundle is added or removed. Also this visualization 
+           		does not take into account the fact that multiple versions of the same bundle and/or 
+           		package can coexists in the system. For anything more than trivial examples, this 
+           		code may render highly inaccurate graphs.
+           	</small>
         </div>
         <div id="diagram"></div><!--the graph container-->
     </body>
