@@ -1,0 +1,5074 @@
+{
+    "data": {
+        "nodes": [
+            
+                {
+                    "ID": "p.java.net",
+                    "LABEL": "java.net",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.net"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.transform.stax",
+                    "LABEL": "javax.xml.transform.stax",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.transform.stax"
+                }
+                ,
+
+                {
+                    "ID": "p.org.w3c.dom",
+                    "LABEL": "org.w3c.dom",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.w3c.dom"
+                }
+                ,
+
+                {
+                    "ID": "p.org.w3c.dom.stylesheets",
+                    "LABEL": "org.w3c.dom.stylesheets",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.w3c.dom.stylesheets"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.transform.stream",
+                    "LABEL": "javax.xml.transform.stream",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.transform.stream"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.service.cm",
+                    "LABEL": "org.osgi.service.cm",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.service.cm"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.sound.sampled",
+                    "LABEL": "javax.sound.sampled",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.sound.sampled"
+                }
+                ,
+
+                {
+                    "ID": "p.java.lang",
+                    "LABEL": "java.lang",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.lang"
+                }
+                ,
+
+                {
+                    "ID": "p.java.beans",
+                    "LABEL": "java.beans",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.beans"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.naming.directory",
+                    "LABEL": "javax.naming.directory",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.naming.directory"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.naming.spi",
+                    "LABEL": "javax.naming.spi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.naming.spi"
+                }
+                ,
+
+                {
+                    "ID": "p.java.util",
+                    "LABEL": "java.util",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.util"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.security.auth.spi",
+                    "LABEL": "javax.security.auth.spi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.security.auth.spi"
+                }
+                ,
+
+                {
+                    "ID": "p.java.awt.image",
+                    "LABEL": "java.awt.image",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.awt.image"
+                }
+                ,
+
+                {
+                    "ID": "p.java.security",
+                    "LABEL": "java.security",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.security"
+                }
+                ,
+
+                {
+                    "ID": "p.org.w3c.dom.html",
+                    "LABEL": "org.w3c.dom.html",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.w3c.dom.html"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.text.html.parser",
+                    "LABEL": "javax.swing.text.html.parser",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.text.html.parser"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.ws.spi.http",
+                    "LABEL": "javax.xml.ws.spi.http",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.ws.spi.http"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.soap",
+                    "LABEL": "javax.xml.soap",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.soap"
+                }
+                ,
+
+                {
+                    "ID": "p.java.rmi",
+                    "LABEL": "java.rmi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.rmi"
+                }
+                ,
+
+                {
+                    "ID": "p.java.nio.file.spi",
+                    "LABEL": "java.nio.file.spi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.nio.file.spi"
+                }
+                ,
+
+                {
+                    "ID": "p.java.time.temporal",
+                    "LABEL": "java.time.temporal",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.time.temporal"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.lang.model.util",
+                    "LABEL": "javax.lang.model.util",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.lang.model.util"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.lang.model.element",
+                    "LABEL": "javax.lang.model.element",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.lang.model.element"
+                }
+                ,
+
+                {
+                    "ID": "p.java.awt.im.spi",
+                    "LABEL": "java.awt.im.spi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.awt.im.spi"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.security.auth.x500",
+                    "LABEL": "javax.security.auth.x500",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.security.auth.x500"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.sql.rowset.serial",
+                    "LABEL": "javax.sql.rowset.serial",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.sql.rowset.serial"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.IOP.CodecFactoryPackage",
+                    "LABEL": "org.omg.IOP.CodecFactoryPackage",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.IOP.CodecFactoryPackage"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.security.cert",
+                    "LABEL": "javax.security.cert",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.security.cert"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.sound.midi.spi",
+                    "LABEL": "javax.sound.midi.spi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.sound.midi.spi"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.CosNaming.NamingContextPackage",
+                    "LABEL": "org.omg.CosNaming.NamingContextPackage",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.CosNaming.NamingContextPackage"
+                }
+                ,
+
+                {
+                    "ID": "p.java.lang.invoke",
+                    "LABEL": "java.lang.invoke",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.lang.invoke"
+                }
+                ,
+
+                {
+                    "ID": "p.java.util.spi",
+                    "LABEL": "java.util.spi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.util.spi"
+                }
+                ,
+
+                {
+                    "ID": "p.java.awt.im",
+                    "LABEL": "java.awt.im",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.awt.im"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.framework.wiring",
+                    "LABEL": "org.osgi.framework.wiring",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.framework.wiring"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.framework.namespace",
+                    "LABEL": "org.osgi.framework.namespace",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.framework.namespace"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.Dynamic",
+                    "LABEL": "org.omg.Dynamic",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.Dynamic"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.framework.wiring.dto",
+                    "LABEL": "org.osgi.framework.wiring.dto",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.framework.wiring.dto"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.jws.soap",
+                    "LABEL": "javax.jws.soap",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.jws.soap"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.crypto.dsig.keyinfo",
+                    "LABEL": "javax.xml.crypto.dsig.keyinfo",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.crypto.dsig.keyinfo"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.service.resolver",
+                    "LABEL": "org.osgi.service.resolver",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.service.resolver"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.imageio.event",
+                    "LABEL": "javax.imageio.event",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.imageio.event"
+                }
+                ,
+
+                {
+                    "ID": "p.java.nio.charset.spi",
+                    "LABEL": "java.nio.charset.spi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.nio.charset.spi"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.net",
+                    "LABEL": "javax.net",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.net"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.transform.sax",
+                    "LABEL": "javax.xml.transform.sax",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.transform.sax"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.service.startlevel",
+                    "LABEL": "org.osgi.service.startlevel",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.service.startlevel"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.resource.dto",
+                    "LABEL": "org.osgi.resource.dto",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.resource.dto"
+                }
+                ,
+
+                {
+                    "ID": "p.org.xml.sax.ext",
+                    "LABEL": "org.xml.sax.ext",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.xml.sax.ext"
+                }
+                ,
+
+                {
+                    "ID": "p.java.security.acl",
+                    "LABEL": "java.security.acl",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.security.acl"
+                }
+                ,
+
+                {
+                    "ID": "p.java.awt.image.renderable",
+                    "LABEL": "java.awt.image.renderable",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.awt.image.renderable"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.framework.startlevel",
+                    "LABEL": "org.osgi.framework.startlevel",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.framework.startlevel"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.rmi",
+                    "LABEL": "javax.rmi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.rmi"
+                }
+                ,
+
+                {
+                    "ID": "p.java.nio.channels",
+                    "LABEL": "java.nio.channels",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.nio.channels"
+                }
+                ,
+
+                {
+                    "ID": "p.java.awt.geom",
+                    "LABEL": "java.awt.geom",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.awt.geom"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.imageio.stream",
+                    "LABEL": "javax.imageio.stream",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.imageio.stream"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.DynamicAny.DynAnyPackage",
+                    "LABEL": "org.omg.DynamicAny.DynAnyPackage",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.DynamicAny.DynAnyPackage"
+                }
+                ,
+
+                {
+                    "ID": "p.java.sql",
+                    "LABEL": "java.sql",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.sql"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.SendingContext",
+                    "LABEL": "org.omg.SendingContext",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.SendingContext"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.tree",
+                    "LABEL": "javax.swing.tree",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.tree"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.bind.helpers",
+                    "LABEL": "javax.xml.bind.helpers",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.bind.helpers"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.tools",
+                    "LABEL": "javax.tools",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.tools"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.util.function",
+                    "LABEL": "org.osgi.util.function",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.util.function"
+                }
+                ,
+
+                {
+                    "ID": "p.java.util.concurrent.atomic",
+                    "LABEL": "java.util.concurrent.atomic",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.util.concurrent.atomic"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.stream",
+                    "LABEL": "javax.xml.stream",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.stream"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.framework.hooks.weaving",
+                    "LABEL": "org.osgi.framework.hooks.weaving",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.framework.hooks.weaving"
+                }
+                ,
+
+                {
+                    "ID": "p.org.apache.felix.cm.file",
+                    "LABEL": "org.apache.felix.cm.file",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.apache.felix.cm.file"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.print",
+                    "LABEL": "javax.print",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.print"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.bind.attachment",
+                    "LABEL": "javax.xml.bind.attachment",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.bind.attachment"
+                }
+                ,
+
+                {
+                    "ID": "p.java.awt.event",
+                    "LABEL": "java.awt.event",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.awt.event"
+                }
+                ,
+
+                {
+                    "ID": "p.java.rmi.activation",
+                    "LABEL": "java.rmi.activation",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.rmi.activation"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.sql.rowset.spi",
+                    "LABEL": "javax.sql.rowset.spi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.sql.rowset.spi"
+                }
+                ,
+
+                {
+                    "ID": "p.org.w3c.dom.ls",
+                    "LABEL": "org.w3c.dom.ls",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.w3c.dom.ls"
+                }
+                ,
+
+                {
+                    "ID": "p.java.awt",
+                    "LABEL": "java.awt",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.awt"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.sql",
+                    "LABEL": "javax.sql",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.sql"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.framework.dto",
+                    "LABEL": "org.osgi.framework.dto",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.framework.dto"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.CORBA",
+                    "LABEL": "org.omg.CORBA",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.CORBA"
+                }
+                ,
+
+                {
+                    "ID": "p.java.util.concurrent.locks",
+                    "LABEL": "java.util.concurrent.locks",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.util.concurrent.locks"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.management.openmbean",
+                    "LABEL": "javax.management.openmbean",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.management.openmbean"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.rmi.CORBA",
+                    "LABEL": "javax.rmi.CORBA",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.rmi.CORBA"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.service.log.admin",
+                    "LABEL": "org.osgi.service.log.admin",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.service.log.admin"
+                }
+                ,
+
+                {
+                    "ID": "p.org.apache.felix.metatype",
+                    "LABEL": "org.apache.felix.metatype",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.apache.felix.metatype"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.undo",
+                    "LABEL": "javax.swing.undo",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.undo"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.PortableServer",
+                    "LABEL": "org.omg.PortableServer",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.PortableServer"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.management.loading",
+                    "LABEL": "javax.management.loading",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.management.loading"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.service.coordinator",
+                    "LABEL": "org.osgi.service.coordinator",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.service.coordinator"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.framework.hooks.resolver",
+                    "LABEL": "org.osgi.framework.hooks.resolver",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.framework.hooks.resolver"
+                }
+                ,
+
+                {
+                    "ID": "p.org.apache.felix.cm",
+                    "LABEL": "org.apache.felix.cm",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.apache.felix.cm"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.ws.wsaddressing",
+                    "LABEL": "javax.xml.ws.wsaddressing",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.ws.wsaddressing"
+                }
+                ,
+
+                {
+                    "ID": "p.java.nio.charset",
+                    "LABEL": "java.nio.charset",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.nio.charset"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.management.timer",
+                    "LABEL": "javax.management.timer",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.management.timer"
+                }
+                ,
+
+                {
+                    "ID": "p.org.xml.sax.helpers",
+                    "LABEL": "org.xml.sax.helpers",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.xml.sax.helpers"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.validation",
+                    "LABEL": "javax.xml.validation",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.validation"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.crypto.spec",
+                    "LABEL": "javax.crypto.spec",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.crypto.spec"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.CORBA_2_3.portable",
+                    "LABEL": "org.omg.CORBA_2_3.portable",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.CORBA_2_3.portable"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.filechooser",
+                    "LABEL": "javax.swing.filechooser",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.filechooser"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.Messaging",
+                    "LABEL": "org.omg.Messaging",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.Messaging"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.crypto",
+                    "LABEL": "javax.xml.crypto",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.crypto"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.CORBA_2_3",
+                    "LABEL": "org.omg.CORBA_2_3",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.CORBA_2_3"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.sound.midi",
+                    "LABEL": "javax.sound.midi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.sound.midi"
+                }
+                ,
+
+                {
+                    "ID": "p.java.text.spi",
+                    "LABEL": "java.text.spi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.text.spi"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.ws.handler.soap",
+                    "LABEL": "javax.xml.ws.handler.soap",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.ws.handler.soap"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml",
+                    "LABEL": "javax.xml",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.colorchooser",
+                    "LABEL": "javax.swing.colorchooser",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.colorchooser"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.crypto.dsig.dom",
+                    "LABEL": "javax.xml.crypto.dsig.dom",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.crypto.dsig.dom"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.management.relation",
+                    "LABEL": "javax.management.relation",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.management.relation"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.text",
+                    "LABEL": "javax.swing.text",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.text"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.ws.http",
+                    "LABEL": "javax.xml.ws.http",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.ws.http"
+                }
+                ,
+
+                {
+                    "ID": "p.java.beans.beancontext",
+                    "LABEL": "java.beans.beancontext",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.beans.beancontext"
+                }
+                ,
+
+                {
+                    "ID": "p.java.nio.file.attribute",
+                    "LABEL": "java.nio.file.attribute",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.nio.file.attribute"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.imageio.plugins.jpeg",
+                    "LABEL": "javax.imageio.plugins.jpeg",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.imageio.plugins.jpeg"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.DynamicAny.DynAnyFactoryPackage",
+                    "LABEL": "org.omg.DynamicAny.DynAnyFactoryPackage",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.DynamicAny.DynAnyFactoryPackage"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.crypto.dom",
+                    "LABEL": "javax.xml.crypto.dom",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.crypto.dom"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.plaf",
+                    "LABEL": "javax.swing.plaf",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.plaf"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.stream.util",
+                    "LABEL": "javax.xml.stream.util",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.stream.util"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.PortableInterceptor.ORBInitInfoPackage",
+                    "LABEL": "org.omg.PortableInterceptor.ORBInitInfoPackage",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.PortableInterceptor.ORBInitInfoPackage"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.naming.ldap",
+                    "LABEL": "javax.naming.ldap",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.naming.ldap"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.stream.events",
+                    "LABEL": "javax.xml.stream.events",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.stream.events"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.CORBA.ORBPackage",
+                    "LABEL": "org.omg.CORBA.ORBPackage",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.CORBA.ORBPackage"
+                }
+                ,
+
+                {
+                    "ID": "p.java.awt.dnd",
+                    "LABEL": "java.awt.dnd",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.awt.dnd"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.annotation.processing",
+                    "LABEL": "javax.annotation.processing",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.annotation.processing"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.bind.util",
+                    "LABEL": "javax.xml.bind.util",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.bind.util"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.management.monitor",
+                    "LABEL": "javax.management.monitor",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.management.monitor"
+                }
+                ,
+
+                {
+                    "ID": "p.java.util.jar",
+                    "LABEL": "java.util.jar",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.util.jar"
+                }
+                ,
+
+                {
+                    "ID": "p.java.util.function",
+                    "LABEL": "java.util.function",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.util.function"
+                }
+                ,
+
+                {
+                    "ID": "p.org.w3c.dom.events",
+                    "LABEL": "org.w3c.dom.events",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.w3c.dom.events"
+                }
+                ,
+
+                {
+                    "ID": "p.java.io",
+                    "LABEL": "java.io",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.io"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.framework",
+                    "LABEL": "org.osgi.framework",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.framework"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.naming",
+                    "LABEL": "javax.naming",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.naming"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.event",
+                    "LABEL": "javax.swing.event",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.event"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.annotation",
+                    "LABEL": "javax.annotation",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.annotation"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.transform",
+                    "LABEL": "javax.xml.transform",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.transform"
+                }
+                ,
+
+                {
+                    "ID": "p.java.awt.print",
+                    "LABEL": "java.awt.print",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.awt.print"
+                }
+                ,
+
+                {
+                    "ID": "m.1",
+                    "LABEL": "org.apache.felix.configadmin",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.configadmin"
+                }
+                ,
+
+                {
+                    "ID": "m.0",
+                    "LABEL": "org.apache.felix.framework",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.framework"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.ws.spi",
+                    "LABEL": "javax.xml.ws.spi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.ws.spi"
+                }
+                ,
+
+                {
+                    "ID": "m.3",
+                    "LABEL": "org.apache.felix.eventadmin",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.eventadmin"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.sql.rowset",
+                    "LABEL": "javax.sql.rowset",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.sql.rowset"
+                }
+                ,
+
+                {
+                    "ID": "m.2",
+                    "LABEL": "org.apache.felix.coordinator",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.coordinator"
+                }
+                ,
+
+                {
+                    "ID": "m.5",
+                    "LABEL": "org.apache.felix.metatype",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.metatype"
+                }
+                ,
+
+                {
+                    "ID": "m.4",
+                    "LABEL": "org.apache.felix.log",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.log"
+                }
+                ,
+
+                {
+                    "ID": "p.java.security.cert",
+                    "LABEL": "java.security.cert",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.security.cert"
+                }
+                ,
+
+                {
+                    "ID": "m.6",
+                    "LABEL": "org.apache.felix.scr",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.scr"
+                }
+                ,
+
+                {
+                    "ID": "p.org.w3c.dom.css",
+                    "LABEL": "org.w3c.dom.css",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.w3c.dom.css"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.security.auth.callback",
+                    "LABEL": "javax.security.auth.callback",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.security.auth.callback"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.crypto",
+                    "LABEL": "javax.crypto",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.crypto"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.print.attribute",
+                    "LABEL": "javax.print.attribute",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.print.attribute"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.transaction.xa",
+                    "LABEL": "javax.transaction.xa",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.transaction.xa"
+                }
+                ,
+
+                {
+                    "ID": "p.java.util.logging",
+                    "LABEL": "java.util.logging",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.util.logging"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.datatype",
+                    "LABEL": "javax.xml.datatype",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.datatype"
+                }
+                ,
+
+                {
+                    "ID": "p.org.xml.sax",
+                    "LABEL": "org.xml.sax",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.xml.sax"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.transaction",
+                    "LABEL": "javax.transaction",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.transaction"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.bind.annotation",
+                    "LABEL": "javax.xml.bind.annotation",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.bind.annotation"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.CORBA.portable",
+                    "LABEL": "org.omg.CORBA.portable",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.CORBA.portable"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.management.remote",
+                    "LABEL": "javax.management.remote",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.management.remote"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.CORBA.TypeCodePackage",
+                    "LABEL": "org.omg.CORBA.TypeCodePackage",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.CORBA.TypeCodePackage"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.security.sasl",
+                    "LABEL": "javax.security.sasl",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.security.sasl"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.transform.dom",
+                    "LABEL": "javax.xml.transform.dom",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.transform.dom"
+                }
+                ,
+
+                {
+                    "ID": "p.java.math",
+                    "LABEL": "java.math",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.math"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.ws",
+                    "LABEL": "javax.xml.ws",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.ws"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.lang.model",
+                    "LABEL": "javax.lang.model",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.lang.model"
+                }
+                ,
+
+                {
+                    "ID": "p.java.util.stream",
+                    "LABEL": "java.util.stream",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.util.stream"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.imageio.metadata",
+                    "LABEL": "javax.imageio.metadata",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.imageio.metadata"
+                }
+                ,
+
+                {
+                    "ID": "p.org.w3c.dom.traversal",
+                    "LABEL": "org.w3c.dom.traversal",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.w3c.dom.traversal"
+                }
+                ,
+
+                {
+                    "ID": "p.java.time.zone",
+                    "LABEL": "java.time.zone",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.time.zone"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.parsers",
+                    "LABEL": "javax.xml.parsers",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.parsers"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.CORBA.DynAnyPackage",
+                    "LABEL": "org.omg.CORBA.DynAnyPackage",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.CORBA.DynAnyPackage"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.PortableServer.CurrentPackage",
+                    "LABEL": "org.omg.PortableServer.CurrentPackage",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.PortableServer.CurrentPackage"
+                }
+                ,
+
+                {
+                    "ID": "p.java.time.chrono",
+                    "LABEL": "java.time.chrono",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.time.chrono"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.framework.hooks.bundle",
+                    "LABEL": "org.osgi.framework.hooks.bundle",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.framework.hooks.bundle"
+                }
+                ,
+
+                {
+                    "ID": "p.java.awt.datatransfer",
+                    "LABEL": "java.awt.datatransfer",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.awt.datatransfer"
+                }
+                ,
+
+                {
+                    "ID": "p.java.awt.font",
+                    "LABEL": "java.awt.font",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.awt.font"
+                }
+                ,
+
+                {
+                    "ID": "p.java.rmi.server",
+                    "LABEL": "java.rmi.server",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.rmi.server"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.util.promise",
+                    "LABEL": "org.osgi.util.promise",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.util.promise"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.script",
+                    "LABEL": "javax.script",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.script"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.naming.event",
+                    "LABEL": "javax.naming.event",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.naming.event"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.imageio.spi",
+                    "LABEL": "javax.imageio.spi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.imageio.spi"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.imageio.plugins.bmp",
+                    "LABEL": "javax.imageio.plugins.bmp",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.imageio.plugins.bmp"
+                }
+                ,
+
+                {
+                    "ID": "p.java.lang.annotation",
+                    "LABEL": "java.lang.annotation",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.lang.annotation"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.PortableServer.POAPackage",
+                    "LABEL": "org.omg.PortableServer.POAPackage",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.PortableServer.POAPackage"
+                }
+                ,
+
+                {
+                    "ID": "p.java.time.format",
+                    "LABEL": "java.time.format",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.time.format"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.service.packageadmin",
+                    "LABEL": "org.osgi.service.packageadmin",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.service.packageadmin"
+                }
+                ,
+
+                {
+                    "ID": "p.org.w3c.dom.views",
+                    "LABEL": "org.w3c.dom.views",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.w3c.dom.views"
+                }
+                ,
+
+                {
+                    "ID": "p.java.util.regex",
+                    "LABEL": "java.util.regex",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.util.regex"
+                }
+                ,
+
+                {
+                    "ID": "p.java.time",
+                    "LABEL": "java.time",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.time"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.print.attribute.standard",
+                    "LABEL": "javax.print.attribute.standard",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.print.attribute.standard"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.DynamicAny",
+                    "LABEL": "org.omg.DynamicAny",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.DynamicAny"
+                }
+                ,
+
+                {
+                    "ID": "p.org.w3c.dom.bootstrap",
+                    "LABEL": "org.w3c.dom.bootstrap",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.w3c.dom.bootstrap"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.activation",
+                    "LABEL": "javax.activation",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.activation"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.management.modelmbean",
+                    "LABEL": "javax.management.modelmbean",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.management.modelmbean"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.activity",
+                    "LABEL": "javax.activity",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.activity"
+                }
+                ,
+
+                {
+                    "ID": "p.java.security.spec",
+                    "LABEL": "java.security.spec",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.security.spec"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.management.remote.rmi",
+                    "LABEL": "javax.management.remote.rmi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.management.remote.rmi"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.util.tracker",
+                    "LABEL": "org.osgi.util.tracker",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.util.tracker"
+                }
+                ,
+
+                {
+                    "ID": "p.java.nio",
+                    "LABEL": "java.nio",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.nio"
+                }
+                ,
+
+                {
+                    "ID": "p.java.awt.color",
+                    "LABEL": "java.awt.color",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.awt.color"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.plaf.metal",
+                    "LABEL": "javax.swing.plaf.metal",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.plaf.metal"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.service.metatype",
+                    "LABEL": "org.osgi.service.metatype",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.service.metatype"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.PortableServer.portable",
+                    "LABEL": "org.omg.PortableServer.portable",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.PortableServer.portable"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.service.component.runtime",
+                    "LABEL": "org.osgi.service.component.runtime",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.service.component.runtime"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.security.auth.login",
+                    "LABEL": "javax.security.auth.login",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.security.auth.login"
+                }
+                ,
+
+                {
+                    "ID": "p.java.util.prefs",
+                    "LABEL": "java.util.prefs",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.util.prefs"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.crypto.dsig",
+                    "LABEL": "javax.xml.crypto.dsig",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.crypto.dsig"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.PortableServer.ServantLocatorPackage",
+                    "LABEL": "org.omg.PortableServer.ServantLocatorPackage",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.PortableServer.ServantLocatorPackage"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.framework.hooks.service",
+                    "LABEL": "org.osgi.framework.hooks.service",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.framework.hooks.service"
+                }
+                ,
+
+                {
+                    "ID": "p.java.rmi.dgc",
+                    "LABEL": "java.rmi.dgc",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.rmi.dgc"
+                }
+                ,
+
+                {
+                    "ID": "p.org.apache.felix.scr.component",
+                    "LABEL": "org.apache.felix.scr.component",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.apache.felix.scr.component"
+                }
+                ,
+
+                {
+                    "ID": "p.java.applet",
+                    "LABEL": "java.applet",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.applet"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.dto",
+                    "LABEL": "org.osgi.dto",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.dto"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.plaf.nimbus",
+                    "LABEL": "javax.swing.plaf.nimbus",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.plaf.nimbus"
+                }
+                ,
+
+                {
+                    "ID": "p.java.lang.ref",
+                    "LABEL": "java.lang.ref",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.lang.ref"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.plaf.synth",
+                    "LABEL": "javax.swing.plaf.synth",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.plaf.synth"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.framework.launch",
+                    "LABEL": "org.osgi.framework.launch",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.framework.launch"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.xpath",
+                    "LABEL": "javax.xml.xpath",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.xpath"
+                }
+                ,
+
+                {
+                    "ID": "p.java.nio.channels.spi",
+                    "LABEL": "java.nio.channels.spi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.nio.channels.spi"
+                }
+                ,
+
+                {
+                    "ID": "p.org.ietf.jgss",
+                    "LABEL": "org.ietf.jgss",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.ietf.jgss"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.PortableInterceptor",
+                    "LABEL": "org.omg.PortableInterceptor",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.PortableInterceptor"
+                }
+                ,
+
+                {
+                    "ID": "p.org.w3c.dom.ranges",
+                    "LABEL": "org.w3c.dom.ranges",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.w3c.dom.ranges"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.imageio",
+                    "LABEL": "javax.imageio",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.imageio"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.management",
+                    "LABEL": "javax.management",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.management"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.sound.sampled.spi",
+                    "LABEL": "javax.sound.sampled.spi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.sound.sampled.spi"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.PortableServer.POAManagerPackage",
+                    "LABEL": "org.omg.PortableServer.POAManagerPackage",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.PortableServer.POAManagerPackage"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.jws",
+                    "LABEL": "javax.jws",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.jws"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.plaf.basic",
+                    "LABEL": "javax.swing.plaf.basic",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.plaf.basic"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.framework.startlevel.dto",
+                    "LABEL": "org.osgi.framework.startlevel.dto",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.framework.startlevel.dto"
+                }
+                ,
+
+                {
+                    "ID": "p.org.apache.felix.scr.info",
+                    "LABEL": "org.apache.felix.scr.info",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.apache.felix.scr.info"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.security.auth",
+                    "LABEL": "javax.security.auth",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.security.auth"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.crypto.dsig.spec",
+                    "LABEL": "javax.xml.crypto.dsig.spec",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.crypto.dsig.spec"
+                }
+                ,
+
+                {
+                    "ID": "p.java.lang.reflect",
+                    "LABEL": "java.lang.reflect",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.lang.reflect"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.service.url",
+                    "LABEL": "org.osgi.service.url",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.service.url"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.ws.handler",
+                    "LABEL": "javax.xml.ws.handler",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.ws.handler"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.CosNaming",
+                    "LABEL": "org.omg.CosNaming",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.CosNaming"
+                }
+                ,
+
+                {
+                    "ID": "p.java.util.zip",
+                    "LABEL": "java.util.zip",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.util.zip"
+                }
+                ,
+
+                {
+                    "ID": "p.java.nio.file",
+                    "LABEL": "java.nio.file",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.nio.file"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.service.event",
+                    "LABEL": "org.osgi.service.event",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.service.event"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.plaf.multi",
+                    "LABEL": "javax.swing.plaf.multi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.plaf.multi"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.text.html",
+                    "LABEL": "javax.swing.text.html",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.text.html"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.text.rtf",
+                    "LABEL": "javax.swing.text.rtf",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.text.rtf"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.IOP.CodecPackage",
+                    "LABEL": "org.omg.IOP.CodecPackage",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.IOP.CodecPackage"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.service.component.runtime.dto",
+                    "LABEL": "org.osgi.service.component.runtime.dto",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.service.component.runtime.dto"
+                }
+                ,
+
+                {
+                    "ID": "p.java.text",
+                    "LABEL": "java.text",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.text"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.CosNaming.NamingContextExtPackage",
+                    "LABEL": "org.omg.CosNaming.NamingContextExtPackage",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.CosNaming.NamingContextExtPackage"
+                }
+                ,
+
+                {
+                    "ID": "p.java.lang.management",
+                    "LABEL": "java.lang.management",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.lang.management"
+                }
+                ,
+
+                {
+                    "ID": "p.java.util.concurrent",
+                    "LABEL": "java.util.concurrent",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.util.concurrent"
+                }
+                ,
+
+                {
+                    "ID": "p.java.rmi.registry",
+                    "LABEL": "java.rmi.registry",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.rmi.registry"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing",
+                    "LABEL": "javax.swing",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.ws.soap",
+                    "LABEL": "javax.xml.ws.soap",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.ws.soap"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.rmi.ssl",
+                    "LABEL": "javax.rmi.ssl",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.rmi.ssl"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.table",
+                    "LABEL": "javax.swing.table",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.table"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.stub.java.rmi",
+                    "LABEL": "org.omg.stub.java.rmi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.stub.java.rmi"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.service.component",
+                    "LABEL": "org.osgi.service.component",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.service.component"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.border",
+                    "LABEL": "javax.swing.border",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.border"
+                }
+                ,
+
+                {
+                    "ID": "p.org.omg.IOP",
+                    "LABEL": "org.omg.IOP",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.omg.IOP"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.crypto.interfaces",
+                    "LABEL": "javax.crypto.interfaces",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.crypto.interfaces"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.print.event",
+                    "LABEL": "javax.print.event",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.print.event"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.lang.model.type",
+                    "LABEL": "javax.lang.model.type",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.lang.model.type"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.bind.annotation.adapters",
+                    "LABEL": "javax.xml.bind.annotation.adapters",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.bind.annotation.adapters"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.accessibility",
+                    "LABEL": "javax.accessibility",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.accessibility"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.security.auth.kerberos",
+                    "LABEL": "javax.security.auth.kerberos",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.security.auth.kerberos"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.net.ssl",
+                    "LABEL": "javax.net.ssl",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.net.ssl"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.namespace",
+                    "LABEL": "javax.xml.namespace",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.namespace"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.resource",
+                    "LABEL": "org.osgi.resource",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.resource"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.bind",
+                    "LABEL": "javax.xml.bind",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.bind"
+                }
+                ,
+
+                {
+                    "ID": "p.java.lang.instrument",
+                    "LABEL": "java.lang.instrument",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.lang.instrument"
+                }
+                ,
+
+                {
+                    "ID": "p.org.osgi.service.log",
+                    "LABEL": "org.osgi.service.log",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.osgi.service.log"
+                }
+                ,
+
+                {
+                    "ID": "p.java.security.interfaces",
+                    "LABEL": "java.security.interfaces",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.security.interfaces"
+                }
+                
+        ],
+        "links": [
+                {
+                    "FROMID": "m.6",
+                    "TOID": "p.org.apache.felix.scr.component",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.time",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.annotation",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.security.cert",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.transaction.xa",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.naming",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.print.attribute",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.DynamicAny",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.w3c.dom.events",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.datatype",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.6",
+                    "TOID": "p.org.osgi.util.function",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.stream.events",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.awt.print",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.ws.spi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.rmi.ssl",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.management.remote",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.security.sasl",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.sound.midi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.service.packageadmin",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.crypto.dom",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.management.monitor",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.util.promise",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.util.regex",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.namespace",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.4",
+                    "TOID": "p.org.osgi.service.log",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.6",
+                    "TOID": "p.org.osgi.service.component.runtime",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.imageio.spi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.crypto",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.bind",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.rmi.server",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.beans.beancontext",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.framework",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.time.format",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.lang.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.PortableServer.POAPackage",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.text.spi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.lang.annotation",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing.event",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.accessibility",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.naming.ldap",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.IOP.CodecPackage",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.CORBA_2_3.portable",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.io",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.component.runtime.dto",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.1",
+                    "TOID": "p.org.apache.felix.cm",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.management.relation",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.util.function",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.IOP",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.component",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.validation",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.util.zip",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing.text.html",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.ws.handler",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.bind.annotation.adapters",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.w3c.dom.traversal",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.xml.sax",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.framework.hooks.weaving",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing.plaf.basic",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.transaction",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.transform",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.framework.launch",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.sql.rowset",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.w3c.dom.views",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.nio",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.framework.dto",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.security.spec",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.stub.java.rmi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.PortableInterceptor",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.activation",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.management.openmbean",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.apache.felix.scr.component",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.stream",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.apache.felix.shell",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.util.tracker",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.3",
+                    "TOID": "p.org.osgi.service.event",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.awt.color",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.activity",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.imageio.stream",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.5",
+                    "TOID": "p.org.apache.felix.metatype",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.CORBA.DynAnyPackage",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.nio.channels.spi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.text",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.resource",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.CORBA",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.util.prefs",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.naming.event",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.print",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.xml.sax.ext",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.ws.soap",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.rmi.activation",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing.table",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.lang.model.type",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.w3c.dom.ls",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.script",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.bind.attachment",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.coordinator",
+                    "TOID": "m.2",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.coordinator",
+                    "TOID": "m.1",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.org.apache.felix.scr.info",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.management.remote.rmi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.service.resolver",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.rmi.registry",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.util.tracker",
+                    "TOID": "m.4",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.util.tracker",
+                    "TOID": "m.5",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.framework.wiring.dto",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.util.tracker",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing.text.rtf",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.math",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.transform.dom",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.lang.model",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.awt.geom",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.framework.namespace",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.awt.image",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.imageio.plugins.bmp",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.print.attribute.standard",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.1",
+                    "TOID": "p.org.osgi.service.cm",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.CosNaming",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.bind.annotation",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.parsers",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.nio.file",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.sql",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.jws",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.util.tracker",
+                    "TOID": "m.1",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.component.runtime",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.w3c.dom.ranges",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.util.tracker",
+                    "TOID": "m.3",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.ws",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.service.startlevel",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.nio.channels",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.framework.startlevel.dto",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.resource.dto",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.imageio",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.framework.wiring",
+                    "TOID": "m.4",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.framework.startlevel",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.imageio.metadata",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.w3c.dom.css",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.cm",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.framework.hooks.service",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.4",
+                    "TOID": "p.org.osgi.service.log.admin",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing.plaf.metal",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.ws.spi.http",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.lang.ref",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.PortableServer.portable",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.cm",
+                    "TOID": "m.3",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.cm",
+                    "TOID": "m.1",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.framework.wiring",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.framework.hooks.bundle",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.sound.sampled.spi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.framework.wiring",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.lang.instrument",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.security.cert",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.PortableInterceptor.ORBInitInfoPackage",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.w3c.dom.stylesheets",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.sound.midi.spi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.net",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.transform.stream",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.util.function",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.DynamicAny.DynAnyPackage",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.annotation.processing",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.rmi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.transform.stax",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.sound.sampled",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.DynamicAny.DynAnyFactoryPackage",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.net.ssl",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.print.event",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.transform.sax",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.naming.directory",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing.tree",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.security.acl",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.naming.spi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.security.auth.spi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.w3c.dom",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.awt.image.renderable",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing.plaf.multi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.security.interfaces",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.util.jar",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.crypto.dsig.keyinfo",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.awt.im.spi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.CORBA.ORBPackage",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.nio.charset.spi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.lang.invoke",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.time.temporal",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.lang.reflect",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.CosNaming.NamingContextPackage",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing.plaf.nimbus",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.security.auth.kerberos",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing.text",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.soap",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.PortableServer.POAManagerPackage",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.awt.im",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing.border",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.management.loading",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.crypto.interfaces",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.sql.rowset.spi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.apache.felix.cm.file",
+                    "TOID": "m.1",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.CosNaming.NamingContextExtPackage",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.security.auth.login",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.sql.rowset.serial",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.security.auth.x500",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.ws.handler.soap",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.6",
+                    "TOID": "p.org.osgi.util.promise",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.xpath",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.security",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.util.concurrent",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing.text.html.parser",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.framework.dto",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.service.url",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.crypto",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.applet",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.CORBA_2_3",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.crypto.dsig",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.crypto.dsig.spec",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.util.concurrent.atomic",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.security.auth",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.event",
+                    "TOID": "m.3",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.w3c.dom.bootstrap",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing.plaf.synth",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.imageio.plugins.jpeg",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.tools",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.dto",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.management.modelmbean",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.awt.dnd",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.nio.file.attribute",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.awt.event",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.metatype",
+                    "TOID": "m.5",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.log",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.log",
+                    "TOID": "m.5",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.bind.util",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.PortableServer.ServantLocatorPackage",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.1",
+                    "TOID": "p.org.apache.felix.cm.file",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.metatype",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.sql",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.stream.util",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.ietf.jgss",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.metatype",
+                    "TOID": "m.3",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.6",
+                    "TOID": "p.org.osgi.service.component.runtime.dto",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.SendingContext",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing.colorchooser",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.bind.helpers",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing.plaf",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.Messaging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.ws.http",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.rmi.dgc",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing.filechooser",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.5",
+                    "TOID": "p.org.osgi.service.metatype",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.crypto.dsig.dom",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.6",
+                    "TOID": "p.org.osgi.service.component",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.log",
+                    "TOID": "m.2",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.log",
+                    "TOID": "m.1",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.crypto.spec",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.log",
+                    "TOID": "m.4",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.log",
+                    "TOID": "m.3",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.Dynamic",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.awt.font",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.jws.soap",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.framework",
+                    "TOID": "m.1",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.lang.model.util",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.log.admin",
+                    "TOID": "m.4",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.2",
+                    "TOID": "p.org.osgi.service.coordinator",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.framework.hooks.resolver",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.management.timer",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.util.stream",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.apache.felix.service.command",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.xml.sax.helpers",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.util.spi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.nio.charset",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.CORBA.portable",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.osgi.framework.startlevel",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.6",
+                    "TOID": "p.org.apache.felix.scr.info",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.awt.datatransfer",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.beans",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.swing.undo",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.imageio.event",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.apache.felix.cm",
+                    "TOID": "m.1",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.rmi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.CORBA.TypeCodePackage",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.PortableServer",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.nio.file.spi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.lang.model.element",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.w3c.dom.html",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.lang",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.dto",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.service.packageadmin",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.awt",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.time.chrono",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.xml.ws.wsaddressing",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.security.auth.callback",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.IOP.CodecFactoryPackage",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.util",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.util.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.net",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.time.zone",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.framework",
+                    "TOID": "m.2",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.framework",
+                    "TOID": "m.3",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.javax.rmi.CORBA",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.framework",
+                    "TOID": "m.4",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.java.util.concurrent.locks",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.framework",
+                    "TOID": "m.5",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.org.osgi.framework",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "p.org.omg.PortableServer.CurrentPackage",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "orange"
+                }
+                
+        ]
+    }
+}

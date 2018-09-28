@@ -1,0 +1,498 @@
+{
+    "data": {
+        "nodes": [
+            
+                {
+                    "ID": "sd.org.osgi.service.metatype.MetaTypeService",
+                    "LABEL": "org.osgi.service.metatype.MetaTypeService",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.osgi.service.metatype.MetaTypeService"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.apache.felix.cm.PersistenceManager",
+                    "LABEL": "org.apache.felix.cm.PersistenceManager",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.apache.felix.cm.PersistenceManager"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.osgi.service.event.EventAdmin",
+                    "LABEL": "org.osgi.service.event.EventAdmin",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.osgi.service.event.EventAdmin"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.osgi.service.cm.ConfigurationListener",
+                    "LABEL": "org.osgi.service.cm.ConfigurationListener",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.osgi.service.cm.ConfigurationListener"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.osgi.service.metatype.MetaTypeProvider",
+                    "LABEL": "org.osgi.service.metatype.MetaTypeProvider",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.osgi.service.metatype.MetaTypeProvider"
+                }
+                ,
+
+                {
+                    "ID": "m.1",
+                    "LABEL": "org.apache.felix.configadmin",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.configadmin"
+                }
+                ,
+
+                {
+                    "ID": "m.0",
+                    "LABEL": "org.apache.felix.framework",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.framework"
+                }
+                ,
+
+                {
+                    "ID": "m.3",
+                    "LABEL": "org.apache.felix.eventadmin",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.eventadmin"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.osgi.service.coordinator.Coordinator",
+                    "LABEL": "org.osgi.service.coordinator.Coordinator",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.osgi.service.coordinator.Coordinator"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.osgi.service.log.admin.LoggerAdmin",
+                    "LABEL": "org.osgi.service.log.admin.LoggerAdmin",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.osgi.service.log.admin.LoggerAdmin"
+                }
+                ,
+
+                {
+                    "ID": "m.2",
+                    "LABEL": "org.apache.felix.coordinator",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.coordinator"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.osgi.service.log.LoggerFactory",
+                    "LABEL": "org.osgi.service.log.LoggerFactory",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.osgi.service.log.LoggerFactory"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.osgi.service.component.runtime.ServiceComponentRuntime",
+                    "LABEL": "org.osgi.service.component.runtime.ServiceComponentRuntime",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.osgi.service.component.runtime.ServiceComponentRuntime"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.osgi.service.log.LogReaderService",
+                    "LABEL": "org.osgi.service.log.LogReaderService",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.osgi.service.log.LogReaderService"
+                }
+                ,
+
+                {
+                    "ID": "m.5",
+                    "LABEL": "org.apache.felix.metatype",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.metatype"
+                }
+                ,
+
+                {
+                    "ID": "m.4",
+                    "LABEL": "org.apache.felix.log",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.log"
+                }
+                ,
+
+                {
+                    "ID": "m.6",
+                    "LABEL": "org.apache.felix.scr",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.scr"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.osgi.service.log.LogService",
+                    "LABEL": "org.osgi.service.log.LogService",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.osgi.service.log.LogService"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.osgi.service.cm.ManagedService",
+                    "LABEL": "org.osgi.service.cm.ManagedService",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.osgi.service.cm.ManagedService"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.osgi.service.startlevel.StartLevel",
+                    "LABEL": "org.osgi.service.startlevel.StartLevel",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.osgi.service.startlevel.StartLevel"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.osgi.service.packageadmin.PackageAdmin",
+                    "LABEL": "org.osgi.service.packageadmin.PackageAdmin",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.osgi.service.packageadmin.PackageAdmin"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.osgi.service.cm.ConfigurationAdmin",
+                    "LABEL": "org.osgi.service.cm.ConfigurationAdmin",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.osgi.service.cm.ConfigurationAdmin"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.osgi.service.resolver.Resolver",
+                    "LABEL": "org.osgi.service.resolver.Resolver",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.osgi.service.resolver.Resolver"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.apache.felix.service.command.Converter",
+                    "LABEL": "org.apache.felix.service.command.Converter",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.apache.felix.service.command.Converter"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.apache.felix.scr.impl.ComponentCommands",
+                    "LABEL": "org.apache.felix.scr.impl.ComponentCommands",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.apache.felix.scr.impl.ComponentCommands"
+                }
+                
+        ],
+        "links": [
+                {
+                    "FROMID": "sd.org.osgi.service.coordinator.Coordinator",
+                    "TOID": "m.1",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Uses",
+                    "COLOR": "blue"
+                }
+                ,
+                {
+                    "FROMID": "sd.org.osgi.service.log.LoggerFactory",
+                    "TOID": "m.1",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Uses",
+                    "COLOR": "blue"
+                }
+                ,
+                {
+                    "FROMID": "sd.org.osgi.service.log.LoggerFactory",
+                    "TOID": "m.5",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Uses",
+                    "COLOR": "blue"
+                }
+                ,
+                {
+                    "FROMID": "sd.org.osgi.service.cm.ConfigurationAdmin",
+                    "TOID": "m.4",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Uses",
+                    "COLOR": "blue"
+                }
+                ,
+                {
+                    "FROMID": "sd.org.osgi.service.log.LoggerFactory",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Uses",
+                    "COLOR": "blue"
+                }
+                ,
+                {
+                    "FROMID": "m.3",
+                    "TOID": "sd.org.osgi.service.event.EventAdmin",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "m.5",
+                    "TOID": "sd.org.osgi.service.metatype.MetaTypeService",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "m.1",
+                    "TOID": "sd.org.apache.felix.cm.PersistenceManager",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "m.4",
+                    "TOID": "sd.org.osgi.service.log.admin.LoggerAdmin",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "sd.org.osgi.service.log.LogService",
+                    "TOID": "m.6",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Uses",
+                    "COLOR": "blue"
+                }
+                ,
+                {
+                    "FROMID": "sd.org.osgi.service.log.LogService",
+                    "TOID": "m.5",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Uses",
+                    "COLOR": "blue"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "sd.org.osgi.service.packageadmin.PackageAdmin",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "m.6",
+                    "TOID": "sd.org.osgi.service.metatype.MetaTypeProvider",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "sd.org.osgi.service.log.LogService",
+                    "TOID": "m.1",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Uses",
+                    "COLOR": "blue"
+                }
+                ,
+                {
+                    "FROMID": "m.4",
+                    "TOID": "sd.org.osgi.service.log.LogReaderService",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "m.3",
+                    "TOID": "sd.org.osgi.service.cm.ManagedService",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "m.4",
+                    "TOID": "sd.org.osgi.service.log.LogService",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "m.2",
+                    "TOID": "sd.org.osgi.service.coordinator.Coordinator",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "m.4",
+                    "TOID": "sd.org.osgi.service.log.LoggerFactory",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "m.6",
+                    "TOID": "sd.org.osgi.service.cm.ManagedService",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "m.6",
+                    "TOID": "sd.org.apache.felix.scr.impl.ComponentCommands",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "sd.org.osgi.service.log.LogReaderService",
+                    "TOID": "m.3",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Uses",
+                    "COLOR": "blue"
+                }
+                ,
+                {
+                    "FROMID": "sd.org.osgi.service.metatype.MetaTypeProvider",
+                    "TOID": "m.5",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Uses",
+                    "COLOR": "blue"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "sd.org.osgi.service.startlevel.StartLevel",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "m.6",
+                    "TOID": "sd.org.osgi.service.component.runtime.ServiceComponentRuntime",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "m.1",
+                    "TOID": "sd.org.osgi.service.cm.ConfigurationAdmin",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "sd.org.osgi.service.cm.ConfigurationListener",
+                    "TOID": "m.1",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Uses",
+                    "COLOR": "blue"
+                }
+                ,
+                {
+                    "FROMID": "m.0",
+                    "TOID": "sd.org.osgi.service.resolver.Resolver",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "m.4",
+                    "TOID": "sd.org.osgi.service.cm.ConfigurationListener",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                ,
+                {
+                    "FROMID": "m.6",
+                    "TOID": "sd.org.apache.felix.service.command.Converter",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Provides",
+                    "COLOR": "brown"
+                }
+                
+        ]
+    }
+}

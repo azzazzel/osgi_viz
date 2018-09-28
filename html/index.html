@@ -1,0 +1,43 @@
+<html>
+    <head>
+            <link  href="./js/d3-force-2.1.2.css" rel="stylesheet" type="text/css">
+            <script src="./js/d3/d3-3.5.6.min.js"></script>
+            <script src="./js/d3-force-2.1.2.min.js"></script>
+            <script>
+                window.onload = function (){
+                    window.diagram = netGobrechtsD3Force("diagram")
+                        .debug(true) //to enable the customization wizard
+                        .lassoMode(true)
+                        .colorScheme('direct')
+                        .zoomMode(true)
+                        .pinMode(true)
+                        .useDomParentWidth(true) //for responsive layout
+                        .wrapLabels(true)
+                        .height(800);
+
+                    render("modules.json")                
+
+                }
+                function render(view) {
+                    d3.json(view, function(data) {
+                        window.diagram.render(data)
+                    });
+                }    
+
+            </script>
+        </head>
+    <body>
+        <div>
+            <h3>OSGi bundle and services snapshot<sup>*</sup>
+                <button onclick='render("modules.json")'>modules</button>
+                <button onclick='render("packages.json")'>packages</button>
+                <button onclick='render("services.json")'>services</button>
+                <button onclick='render("all.json")'>blow my mind</button>
+            </h3>
+           	<small><sup>*</sup> OSGi is dynamic system and this graph represents one particular state that can completely change if bundle is added or removed</small>
+        </div>
+        <div id="diagram"></div><!--the graph container-->
+    </body>
+
+
+</html>

@@ -1,0 +1,78 @@
+{
+    "data": {
+        "nodes": [
+            
+                {
+                    "ID": "m.3",
+                    "LABEL": "org.apache.felix.eventadmin",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.eventadmin"
+                }
+                ,
+
+                {
+                    "ID": "m.2",
+                    "LABEL": "org.apache.felix.coordinator",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.coordinator"
+                }
+                ,
+
+                {
+                    "ID": "m.5",
+                    "LABEL": "org.apache.felix.metatype",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.metatype"
+                }
+                ,
+
+                {
+                    "ID": "m.4",
+                    "LABEL": "org.apache.felix.log",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.log"
+                }
+                ,
+
+                {
+                    "ID": "m.6",
+                    "LABEL": "org.apache.felix.scr",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.scr"
+                }
+                ,
+
+                {
+                    "ID": "m.1",
+                    "LABEL": "org.apache.felix.configadmin",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.configadmin"
+                }
+                ,
+
+                {
+                    "ID": "m.0",
+                    "LABEL": "org.apache.felix.framework",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "org.apache.felix.framework"
+                }
+                
+        ],
+        "links": [
+        ]
+    }
+}
