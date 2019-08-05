@@ -113,16 +113,6 @@
                 ,
 
                 {
-                    "ID": "sd.org.osgi.service.log.LoggerFactory",
-                    "LABEL": "org.osgi.service.log.LoggerFactory",
-                    "COLORVALUE": "brown",
-                    "COLORLABEL": "Service definition",
-                    "SIZEVALUE": "5",
-                    "INFOSTRING": "org.osgi.service.log.LoggerFactory"
-                }
-                ,
-
-                {
                     "ID": "sd.org.osgi.service.component.runtime.ServiceComponentRuntime",
                     "LABEL": "org.osgi.service.component.runtime.ServiceComponentRuntime",
                     "COLORVALUE": "brown",
@@ -139,6 +129,16 @@
                     "COLORLABEL": "Service definition",
                     "SIZEVALUE": "5",
                     "INFOSTRING": "org.osgi.service.log.LogReaderService"
+                }
+                ,
+
+                {
+                    "ID": "sd.org.osgi.service.log.LoggerFactory",
+                    "LABEL": "org.osgi.service.log.LoggerFactory",
+                    "COLORVALUE": "brown",
+                    "COLORLABEL": "Service definition",
+                    "SIZEVALUE": "5",
+                    "INFOSTRING": "org.osgi.service.log.LoggerFactory"
                 }
                 ,
 
@@ -342,16 +342,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.0",
-                    "TOID": "sd.org.osgi.service.packageadmin.PackageAdmin",
+                    "FROMID": "m.6",
+                    "TOID": "sd.org.osgi.service.metatype.MetaTypeProvider",
                     "STYLE": "solid",
                     "INFOSTRING": "Provides",
                     "COLOR": "brown"
                 }
                 ,
                 {
-                    "FROMID": "m.6",
-                    "TOID": "sd.org.osgi.service.metatype.MetaTypeProvider",
+                    "FROMID": "m.0",
+                    "TOID": "sd.org.osgi.service.packageadmin.PackageAdmin",
                     "STYLE": "solid",
                     "INFOSTRING": "Provides",
                     "COLOR": "brown"
